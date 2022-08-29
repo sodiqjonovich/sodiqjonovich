@@ -3,16 +3,9 @@
 
 
 <h3 align="center">
-    Welcome to Muhammad Abdulloh's profile!
+    Welcome to Sobirjonov's profile!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-
-<!--ANIMATED WELCOME TEXT -->
-<p align="center">
-    <a href="https://github.com/MuhammadAbdulloh/readme-typing-svg">
-        <img
-                src="https://readme-typing-svg.herokuapp.com/?lines=DotNet%20Engineer%20Developer;More%20than%20a%20one%20year%20of%20experience;Always%20learning%20new%20things;%20A%20Self-confidence%20and%20self-motivated&center=true&width=380&height=45"></a>
-</p>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
@@ -35,19 +28,6 @@
     <a href="https://stackoverflow.com/users/17122298/clever-coder">
         <img alt="Stackowerflow"
              src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-<!--      <a href="https://www.hackerrank.com/clevercoderr">
-        <img alt="Hackerrank"
-             src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
-    <a href="https://www.kaggle.com/clevercoderr">
-        <img alt="Kaggle"
-             src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
-    <a href="https://discord.gg/clevercoderr">
-        <img alt="Discord"
-             src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-    <a href="https://www.facebook.com/clevercoderr">
-        <img alt="Facebook"
-             src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-    <a href="https://www.facebook.com/profile.php?id=100068970307814"> -->
 </p>
 
 
@@ -58,18 +38,6 @@
   <a align="center" href="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=muhammad-abdulloh&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
     <img alt="muhammad-abdulloh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=muhammad-abdulloh&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
 </p>
-
-<!-- <p>
-  <a align="center" href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=muhammad-abdulloh&theme=monokai&column=8&no-frame=true&no-bg=true">
-  </a>
-</p> -->
-<a>
-    <a><h2>Trophies</h2></a>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=muhammad-abdulloh&row=4&theme=onedark&no-frame=true"/>
-    </a>    
-</a>
 
 ## 🛠️ My favorite tools
 
@@ -209,19 +177,3 @@
   ![Snake animation](https://github.com/radjabov4443/radjabov4443/blob/main/github-contribution-grid-snake.svg)
  
 </div>
-### Snake game
-
-
-## 🔥 Streak stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/muhammad-abdulloh/github-readme-streak-stats -->
-<p align="center">
-  <a href="#">
-    <img title="🔥 Streak stats" alt="MuhammadAbdulloh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-abdulloh&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</p>
-
-## 💻 Last month's activity
-<!-- https://github.com/muhammad-abdulloh/github-readme-activity-graph -->
-<a href=""><img alt="muhammad-abdulloh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=muhammad-abdulloh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
