@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am full stack developer at ...  i am ... jbds jdf dfsdfd
 <!--
 **SobirjonovSodiqjonovich/SobirjonovSodiqjonovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
