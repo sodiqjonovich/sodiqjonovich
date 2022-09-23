@@ -16,5 +16,5 @@
 - ⚔️ Technogies and tools : `.net`, `git`, `docker`, `rabbit-mq`, `rabbit-mq`
 - 🌍 I'm mostly active within the **Dotnet Community Uzbekistan**
 - 🌱 Learning all about **Open Source**
-- 📫 Connect with me: [telegram](https://t.me/sobirjonovsodiqjonovich), [linkedin](www.linkedin.com/in/sobirjonov),
+- 📫 Connect with me: [telegram](https://t.me/sobirjonovsodiqjonovich), [linkedin](https://linkedin.com/in/sobirjonov),
 - ⚡️ Fun fact: I'm a huge fan of Chess
