@@ -1,6 +1,6 @@
 ### Hi there, I am Sobirjonov 👋
 
-#### I'm a Back-end Developer.
+#### I'm a Software Engineer.
 
 ##### NOW
 
