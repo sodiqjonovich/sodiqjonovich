@@ -10,11 +10,11 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Medicare Portugal**
-- ⚙️ I use daily: `.cs`, `.net`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
-- 🌍 I'm mostly active within the **Laravel Community**
-- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
+- 🏢 I'm currently working at **Najot ta'lim**
+- ⚙️ My specialty : `.net`, `asp.net`, `wpf`, `postgresql`
+- 💻 My programming languages : `.cs`, `.cpp`
+- ⚔️ Technogies and tools : `.net`, `git`, `docker`, `rabbit-mq`, `rabbit-mq`
+- 🌍 I'm mostly active within the **Dotnet Community Uzbekistan**
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
 - 📫 Reach me: [twitter.com/caneco](https://twitter.com/caneco)
 - ⚡️ Fun fact: I'm a huge fan of Chess
